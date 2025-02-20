@@ -29,12 +29,11 @@ Sistema de adquisición de datos para un sensor de presión en una maqueta de si
 
 - **Profesor Particular**: Clases de ciencias a nivel ESO y Bachiller.  
 - **Monitor de Tiempo Libre**: Desarrollo de habilidades comunicativas y trabajo en equipo.  
-- **Intercambio en Politécnico de Milán**: Formación en telecomunicaciones y sistemas radar.  
 
 ## 🚀 Intereses  
 
 - Energías renovables  
 - Física aplicada  
-- Energía nuclear  
-- Desarrollo de software científico  
+- Desarrollo de software científico
+- Robótica
 
